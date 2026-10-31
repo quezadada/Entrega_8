@@ -1,13 +1,8 @@
-RetailPro
+Entrega 8 – Modelado de Datos y Medidas DAX | Power BI
 
-Pregunta estrategica: ¿Qué factores explican las variaciones en las ventas de RetailPro?
+Contenido
+- Modelo de datos en esquema estrella, con relaciones 1:N.
+- Tabla calendario `Dim_Fechas`.
+- Creación de medidas DAX: Total Ventas, Ventas Online, Ventas YTD, Ventas LY y % Crecimiento Anual.
+- Validación de indicadores mediante una matriz en Power BI.
 
-Para responderla, se analiza
-
-- El impacto de los productos en las ventas.
-- Los clientes que generan mayor facturación.
-- La evolución del comportamiento de los principales clientes.
-- El comportamiento de las ventas según territorio.
-- Los períodos en los que se producen los principales cambios en las ventas.
-
-Herramienta utilizadas: SQL Server
